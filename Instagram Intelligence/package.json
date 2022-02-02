@@ -1,0 +1,15 @@
+{
+  "name": "instagram-intelligence",
+  "version": "1.0.0",
+  "description": "Getting instagram post data for company use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Patel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "googleapis": "^94.0.0"
+  }
+}
